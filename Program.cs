@@ -21,7 +21,6 @@ int[] GetArray(int size, int minValue, int maxValue)
 }
 
 int[] array = GetArray(4, 111, 999);
-//GetArray(array);
 
 int FindingEvenNumber(int[] array)
 {
